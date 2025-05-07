@@ -1,0 +1,18 @@
+Linear Regression Performance:
+root_mean_squared_error: 153.348 +/- 0.000
+absolute_error: 94.657 +/- 120.647
+normalized_absolute_error: 0.160
+correlation: 0.992
+squared_correlation: 0.983
+
+Random Forest Performance:
+root_mean_squared_error: 889.614 +/- 0.000
+absolute_error: 428.586 +/- 779.569
+correlation: 0.783
+squared_correlation: 0.612
+
+Neural Net Performance: 
+root_mean_squared_error: 623.387 +/- 0.000
+absolute_error: 310.208 +/- 540.725
+correlation: 0.953
+squared_correlation: 0.909
