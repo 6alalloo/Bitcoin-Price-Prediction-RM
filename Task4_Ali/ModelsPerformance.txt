@@ -16,3 +16,28 @@ root_mean_squared_error: 623.387 +/- 0.000
 absolute_error: 310.208 +/- 540.725
 correlation: 0.953
 squared_correlation: 0.909
+
+LR, RF, NN combo Performance:
+root_mean_squared_error: 487.046 +/- 0.000
+absolute_error: 235.055 +/- 426.571
+correlation:0.983
+squared_correlation:0.967
+
+LR, RF combo Performance:
+root_mean_squared_error: 429.867 +/- 0.000
+absolute_error: 217.240 +/- 370.934
+correlation:0.989
+squared_correlation:0.979
+
+LR, NN combo Performance:
+root_mean_squared_error: 305.313 +/- 0.000
+absolute_error: 144.503 +/- 268.952
+correlation: 0.983
+squared_correlation:0.967
+
+LR, RF, NN combo Performance without PCA:
+root_mean_squared_error: 733.397 +/- 0.000
+absolute_error: 362.840 +/- 637.353
+correlation:0.914
+squared_correlation:0.835
+
